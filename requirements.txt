@@ -1,0 +1,6 @@
+telethon
+pandas
+nest_asyncio
+asyncio
+transformers
+torch
